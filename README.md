@@ -26,7 +26,7 @@ Installation is recommended to be done via [composer](https://getcomposer.org/) 
 ```
 
 Alternatively run `composer require "cebe/js-search"`.
-
+When running as root, do `composer install --no-plugins --no-scripts`
 
 Usage
 -----
