@@ -43,3 +43,5 @@ vendor/bin/jsindex <path-to-your-html-files>
 ```
 
 This will generate a `jssearch.index.js` file that you have to include in the HTML header.
+
+Update: Test.
